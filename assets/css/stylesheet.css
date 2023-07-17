@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.col1 {
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+}
+
+.col2 {
+    display: flex;
+    flex-direction: column;
+    width: 70vw;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.contactos {
+    display: flex;
+    flex-direction: row;
+}
+
+.textos {
+    display: flex;
+    flex-direction: column;
+    padding: 2px;
+    border: 2px;
+}
+
+.fotos {
+    width: 50px;
+    height: 50px;
+}
+
+.hand {
+    width: 250px;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3 {
+    padding: 1px;
+    margin-left: 5px;
+    margin: 2px;
+    border: 1px;
+}
+
+.p {
+    padding: 1px;
+    margin-left: 5px;
+    border: 1px;
+    margin: 2px;
+}
