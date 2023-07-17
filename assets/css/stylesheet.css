@@ -65,19 +65,24 @@
 
 .botón {
     width: 100px;
-    height: 30px;
+    height: 25px;
 }
 
 .íconos {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: space-around;
     padding: 3px;
+    margin-left: 200px ;
 }
 
 .click {
     width: 250px;
     text-align: center;
     margin-left: 35px;
+}
+
+.íconos2 {
+    padding: 3px;
 }
