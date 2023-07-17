@@ -13,8 +13,8 @@
     display: flex;
     flex-direction: column;
     width: 70vw;
-    justify-content: flex-end;
-    align-items: flex-end;
+    justify-content: center;
+    align-items: center;
 }
 
 .contactos {
@@ -72,4 +72,8 @@
     align-items: center;
     justify-content: flex-start;
     padding: 3px;
+}
+
+.click {
+    width: 250px;
 }
