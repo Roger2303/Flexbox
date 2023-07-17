@@ -32,6 +32,7 @@
 .fotos {
     width: 50px;
     height: 50px;
+    border-radius: 50%;
 }
 
 .hand {
@@ -39,6 +40,7 @@
     height: 250px;
     justify-content: center;
     align-items: center;
+    margin-left: 35px;
 }
 
 .h3 {
@@ -76,4 +78,6 @@
 
 .click {
     width: 250px;
+    text-align: center;
+    margin-left: 35px;
 }
